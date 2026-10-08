@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Dashboard
 
 A small full-stack student records app. The React interface lets you add students, search by name, update a student's age, and delete records. An Express API handles requests and stores records in MySQL.
@@ -66,3 +67,7 @@ Example request body for adding a student:
 
 - `backend/` — Express API and MySQL connection
 - `frontend/frontend/` — React app built with Vite
+=======
+# full-backend-and-frontend-beginner-only
+learn backend and frontend
+>>>>>>> 961ac1803b26564a829573da28d2e3bd7fde04bf
